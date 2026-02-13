@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-
-## Hi there 👋, I'm Veera 😄  
+I'm Veeranarayana 😄  
 ### 🚀 Full Stack Developer | React | Next.js | Firebase  
 
 ---
@@ -13,7 +12,7 @@
 - 👯 I’m looking to collaborate on **React / Next.js Projects**
 - 🤔 I’m looking for help with **Backend + API Development**
 - 💬 Ask me about **React, Next.js, Firebase, Firestore**
-- 📫 How to reach me: **yourmail@gmail.com**
+- 📫 How to reach me: **veeravallapuneni@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love building dashboards 😄**
 
@@ -34,12 +33,7 @@
 
 🔗 Repo: https://github.com/YOUR_USERNAME/YOUR_REPO  
 
----
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
 
 ---
 
